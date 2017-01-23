@@ -1,0 +1,4 @@
+This is a second file that I will use to experiment with branching in GIT.
+
+I am going to make an intentional spelling msitake that I will have to fix with a branch.
+I am also going to to make some gramatical error to ensure that that I can fix these problems and sumbit a pull request.
